@@ -2,8 +2,5 @@ language: ruby
 dist: xenial
 rvm: 2.5.8
 
-
-
-
 script:
 - lscpu
